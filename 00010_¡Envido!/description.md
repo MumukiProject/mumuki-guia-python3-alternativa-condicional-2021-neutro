@@ -4,7 +4,7 @@ Queremos saber el valor de las [cartas de truco](https://es.wikipedia.org/wiki/T
 * las cartas del 10 al 12, inclusive, valen 0
 * no se juega con 8s ni con 9s
 
-> Definí una función `valor_envido` que tome un número de carta y devuelva su valor de envido:
+> Define una función `valor_envido` que tome un número de carta y devuelva su valor de envido:
 >
 > ```python
 > ム valor_envido(12)
@@ -13,4 +13,4 @@ Queremos saber el valor de las [cartas de truco](https://es.wikipedia.org/wiki/T
 > 3
 > ```
 >
-> :memo: Asumí que nunca te vamos a pasar cartas con 8 o 9 como valor.
+> :memo: Asume que nunca te pasaremos cartas con 8 o 9 como valor.
