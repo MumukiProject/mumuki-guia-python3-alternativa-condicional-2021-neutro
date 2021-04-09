@@ -1,1 +1,1 @@
-¡Buenos días a vos también! Hmm...¿o serán buenas noches? :full_moon:
+¡Buenos días a ti también! Hmm...¿o serán buenas noches? :full_moon:
