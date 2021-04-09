@@ -4,4 +4,4 @@ Necesitamos una función `signo`, que dado un número nos devuelva:
 * `0` si el número es cero
 * `-1` si el número es negativo
 
-> Definí la función `signo`. 
+> Define la función `signo`. 
