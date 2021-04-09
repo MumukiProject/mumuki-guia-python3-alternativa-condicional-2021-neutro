@@ -19,9 +19,9 @@ def saludar_a(quien, horario):
     return "Buenas noches " + quien
 ```
 
-> :hourglass_flowing_sand: Tomate uno minutos para leer este `if` e intentar entender qué está pasando acá. Y después probá en la consola lo siguiente: 
+> :hourglass_flowing_sand: Tómate uno minutos para leer este `if` e intentar entender qué está sucediendo aquí. Y después prueba en la consola lo siguiente: 
 >
->  1. saludá a `"Juli"` a las `18`
->  2. saludá a `"Pun Pun"` a las `19`
+>  1. saluda a `"Juli"` a las `18`
+>  2. saluda a `"Pun Pun"` a las `19`
 >
 > ¿Sucede lo que esperabas? :thinking:
