@@ -1,4 +1,4 @@
-El jurado de un torneo nos pidió que desarrollemos una función `medalla_segun_puesto` que devuelva la medalla que le corresponde a los primeros puestos, según la siguiente lógica:
+El jurado de un torneo nos ha pedido que desarrollemos una función `medalla_segun_puesto` que devuelva la medalla que le corresponde a los primeros puestos, según la siguiente lógica:
 
 * primer puesto: le corresponde `"oro"`
 * segundo puesto: le corresponde `"plata"`
@@ -12,5 +12,5 @@ El jurado de un torneo nos pidió que desarrollemos una función `medalla_segun_
 "nada"
 ```
 
-> Definí la función `medalla_segun_puesto` y probala en la consola. 
+> Define la función `medalla_segun_puesto` y pruébala en la consola. 
 
