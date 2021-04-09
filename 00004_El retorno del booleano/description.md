@@ -1,5 +1,5 @@
 Para cerrar, ahora que ya vimos cómo escribir la alternativa condicional, es momento de un pequeño recordatorio:
-si usás adecuadamente las expresiones booleanas, ¡no es necesario utilizar esta estructura de control!
+si usas adecuadamente las expresiones booleanas, ¡no es necesario utilizar esta estructura de control!
 
 Supongamos que queremos desarrollar una función `es_mayor_de_edad`, que nos diga si alguien tiene
 18 años o más. Una tentación es escribir lo siguiente:
@@ -27,4 +27,4 @@ Mucho más simple, ¿no? :wink:
 > * es menor a 100, y
 > * no es el 15.
 >
-> Definí la función `es_numero_de_la_suerte` que dado un número diga si cumple la lógica anterior. ¡No vale usar `if`! 
+> Define la función `es_numero_de_la_suerte` que dado un número diga si cumple la lógica anterior. ¡No vale usar `if`! 
